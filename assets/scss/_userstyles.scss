@@ -1,0 +1,16 @@
+a[href*="/Register/"] {
+  font-weight: bold;
+  color: #ffeb9d;   // swap for whatever color you want
+}
+
+#spotlight {
+  position: relative;   // needed so the logo positions relative to this box, not the whole page
+}
+
+#corner-logo {
+  position: absolute;
+  top: 20px;
+  right: 20px;     // change to `left: 20px;` for the opposite corner
+  width: 120px;
+  z-index: 10;      // keeps it above the background image
+}
