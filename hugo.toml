@@ -37,3 +37,6 @@ title   = "2026 SPS Modeling Competition"
   url    = "https://sps.physics.gatech.edu/"
   weight = 20
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
