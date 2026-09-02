@@ -1,4 +1,4 @@
-baseURL        = "https://example.com/"
+baseURL        = "https://spsmodelling.web.app/"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
 theme          = "hermit-v2"
