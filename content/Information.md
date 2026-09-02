@@ -1,6 +1,6 @@
 +++
 date = '2026-07-28T22:16:15-07:00'
-draft = true
+draft = false
 title = 'Information'
 +++
 <div style="background-color: #f3f2f21c; color: #ffffff; padding: 45px; padding-top: 15px; border-radius: 4px;">
