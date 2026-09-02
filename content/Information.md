@@ -14,6 +14,7 @@ title = 'Information'
 
 <button style="background-color: #5cad9a61; padding: 10px; border-radius: 4px; justify-content: center; border: none" > Download </button>
 
+## Prizes: TBA
 
 ## Schedule: 
 
@@ -36,11 +37,7 @@ The modeling competition will take place <span style="color: #5cad9a;"> **9:00 a
 
 <u>**Day 2**</u>
 
-9:00am: Finalists Announced
-
-1:00pm: 5 Finalists Groups Return to George Tower Room TS3 0270 to Give 7 Minute Presentation of Projects (3 minutes of questions). 
-
-3:00pm: Winners Announced
+Schedule TBA. We tentatively will have judging in the morning and finalist presentations in the afternoon with winners announced after.
 
 ## Rules:
 <div style="background-color: #eeeeee4e; color: #ffffff; padding: 15px; border-radius: 4px;">
