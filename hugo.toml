@@ -17,6 +17,11 @@ title   = "2026 SPS Modeling Competition"
   url    = "/Register/"
   weight = 10
 
+[[menus.main]]
+  name   = "Volunteer"
+  url    = "/Volunteer/"
+  weight = 12
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]

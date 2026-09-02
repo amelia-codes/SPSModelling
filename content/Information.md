@@ -3,28 +3,55 @@ date = '2026-07-28T22:16:15-07:00'
 draft = true
 title = 'Information'
 +++
+<div style="background-color: #f3f2f21c; color: #ffffff; padding: 45px; padding-top: 15px; border-radius: 4px;">
 
-## About our theme: 
-#### <span style="color: #c7ced3;"> Our theme for this year is Raiders of the Lost Algorithm. In this high stakes adventure, Dr. Emmy Jones explores the 7 Wonders of the modeling world. Dr. Jones must find the lost model before the forces of evil use it to destroy humanity! She does not know what the model intails but knows that the lost model must be one of the famous 7 wonders of the modeling world. She only has 12 hours so you must help explore them with her and uncover it first. Click on each to read more about your mission: </span>
+## Theme: 
+#### <span style="color: #c7ced3;"> Our theme for this year is Raiders of the Lost Model. In this high stakes adventure,  Dr. Jones must find the lost model before the forces of evil use it to destroy humanity! She does not know what the model entails and only has 12 hours so you must help explore them with her and uncover it first. Her only clue is a few details left behind by another explorer (your prompt).</span>
 
-1. [Quantum Computing]()
-2. [Optimal Transport]()
-3. [Noether's Theorem]()
-4. [TBD]()
-5. [TBD]()
-6. [TBD]()
-7. [TBD]()
+## Prompts:
 
-## Schedule: **TBD**
+<span style="color: #c7ced3;">Choose one prompt to submit. Prompts will be released at 10:00am the day of the competition.</span>
+
+<button style="background-color: #5cad9a61; padding: 10px; border-radius: 4px; justify-content: center; border: none" > Download </button>
+
+
+## Schedule: 
+
+<div style="background-color: #eeeeee4e; color: #ffffff; padding: 15px; border-radius: 4px;">
+
+The modeling competition will take place <span style="color: #5cad9a;"> **9:00 am October 3rd, 2026** </span>in <span style="color: #5cad9a;">**George Tower Room TS3 0270.** </span>
+</div>
+
+<u>**Day 1**</u>
+
+9:00am: Opening Remarks
+
+9:15am: Keynote Speaker (TBA)
+
+9:45am: Instructions
+
+10:00am: Competition Starts
+
+10:00pm: Competition Ends, All Materials Due
+
+<u>**Day 2**</u>
+
+9:00am: Finalists Announced
+
+1:00pm: 5 Finalists Groups Return to George Tower Room TS3 0270 to Give 7 Minute Presentation of Projects (3 minutes of questions). 
+
+3:00pm: Winners Announced
 
 ## Rules:
+<div style="background-color: #eeeeee4e; color: #ffffff; padding: 15px; border-radius: 4px;">
 <span style="color: #c7ced3;"> 1. Teams are 1-4 members</span>
 
-<span style="color: #c7ced3;">2. Submit your report and github repository to this form by: TBD. You can submit multiple times. </span>
+<span style="color: #c7ced3;">2. Submit your report and github repository to this form by: **October 3rd at 10pm**. You can submit multiple times. </span>
 
 <span style="color: #c7ced3;">3. You may use AI but you must specify how. For example, you should comment your code indicating which sections are AI, and you must explain its contributions in the report. You may not use AI to come up with your idea and if it is deemed more than supplimental, you will be disqualified (see AI Policy for more details). </span>
 
 <span style="color: #c7ced3;">4. Your report must contain the names of all your team members. You must write this yourself without AI. </span>
+</div>
 
 ## AI Policy:
 <span style="color: #c7ced3;">
@@ -39,8 +66,19 @@ You should not ask it prompt specific questions such as: </span>
 <span style="color: #c7ced3;">
 as you construct the project. Your team should be coming up with the core ideas and implementation yourselves. We plan to have a live presentation followed by very detailed questions for finalist teams so **it will be clear to us if you have used AI in place of truly understanding the modeling problem.** </span>
 
+<div style="background-color: #eeeeee4e; color: #ffffff; padding: 15px; border-radius: 4px;">
+
+**Finalists will be asked detailed questions during their presentation, so we will know if you used AI more than what is acceptable.**
+</div>
+
 ## Submission:
-<span style="color: #c7ced3;"> Submit your project to the </span> link [here](https://docs.google.com/forms/d/e/1FAIpQLSfPRSNGOi1WBI7bYW_xA_6rN8QYmwK7Bkaz8VrLCsMx8Itjdw/viewform?usp=publish-editor). <span style="color: #c7ced3;">You may submit as many times as you need. We will evaluate your most recent submission. All report submissions need to be in the format: groupname_2026model_submission.pdf. Submit a link to your repository along with the report.</span>
+<span style="color: #c7ced3;"> Submit your project to the link </span> [here](https://docs.google.com/forms/d/e/1FAIpQLSfPRSNGOi1WBI7bYW_xA_6rN8QYmwK7Bkaz8VrLCsMx8Itjdw/viewform?usp=publish-editor). <span style="color: #c7ced3;">You may submit as many times as you need. We will evaluate your most recent submission. All report submissions need to be in the format: groupname_2026model_submission.pdf. Submit a link to your repository along with the report.</span>
+
+Submit your work to the autograder here: 
+
+
+You must submit your autograder report with your submission.
 
 ## Awknowledgements:
 <span style="color: #c7ced3;"> The 2026 SPS Officers would like to thank everyone who helped organize this competition. This site was created with the hugo "hermit-V2" [theme](https://github.com/1bl4z3r/hermit-V2) and images were generated by Claude Sonnet 5. </span>
+</div>
