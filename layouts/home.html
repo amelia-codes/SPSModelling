@@ -32,9 +32,7 @@
 				{{ partialCached "menu.html" . }}
 			</nav>
 		</div>
-		<div id="ascii-b-wrap" style="position: fixed; bottom: 100px; right: 20px; z-index: 1; left: auto !important; pointer-events: none;">
-    <img src="/images/kleinascii.png" alt="Klein bottle" id="ascii-b" style="width: 300px; height: auto;">
-</div>
+
 		<div id="home-footer">{{- if templates.Exists "_partials/index-footer.html" -}}{{- partialCached "index-footer.html" . -}}{{- else -}}{{- partial "footer.html" . -}}{{- end -}}</div>
 	</div>
 {{ end }}
