@@ -3,7 +3,7 @@ defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
 theme          = "hermit-v2"
 enableRobotsTXT = true
-title   = "2026 SPS Modeling Competition"
+title   = "2026 SPS Modelling Competition"
 
 [params]
   homeSubtitlePrinter = true
