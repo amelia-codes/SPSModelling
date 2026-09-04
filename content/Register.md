@@ -8,7 +8,7 @@ title = 'How To Register:'
 
 <div style="background-color: #eeeeee4e; color: #ffffff; padding: 15px; border-radius: 4px;">
 
-**<span style="color: #ffffff;">Statement of Awknowledgement: <span>**
+**<span style="color: #ffffff;">Statement of Acknowledgement: <span>**
 <span style="color: #ffffff;">By registering for this hackathon, you agree to the release of any photos associated with this event. If you consent to the release of your project during submission, we reserve the right to share information about it on SPS social platforms. </span>
 
 </div>
