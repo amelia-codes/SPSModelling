@@ -16,5 +16,5 @@ title = 'How To Register:'
 This modeling competition is open to Georgia Tech students, both graduate and undergraduate. You must be at least 18 to participate.
 
 **<span style="color: #5cad9a;"> Fill out this form with dietary preferences and t-shirt size: </span>**
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeHI37fly-LyIhHI0tJ_t5gEA33QXn6DvJzA5qgQQiVWoGOyw/viewform?embedded=true" width="640" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeHI37fly-LyIhHI0tJ_t5gEA33QXn6DvJzA5qgQQiVWoGOyw/viewform?embedded=true" width="800" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 </div>
