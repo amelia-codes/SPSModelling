@@ -14,7 +14,7 @@ title = 'Information'
 
 <button style="background-color: #5cad9a61; padding: 10px; border-radius: 4px; justify-content: center; border: none" > Download </button>
 
-## Prizes: TBA
+## Prizes: $200 for the winning team for each prompt
 
 ## Schedule (Tentative): 
 
