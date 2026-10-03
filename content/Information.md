@@ -10,9 +10,7 @@ title = 'Information'
 
 ## Prompts:
 
-<span style="color: #c7ced3;">Choose one prompt to submit. Prompts will be released at 10:00am the day of the competition.</span>
-
-<button style="background-color: #5cad9a61; padding: 10px; border-radius: 4px; justify-content: center; border: none" > Download </button>
+<span style="color: #c7ced3;">Choose one prompt to submit. Prompts will be released at 10:00am the day of the competition in the discord.</span>
 
 ## Prizes: 
 
